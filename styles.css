@@ -79,11 +79,6 @@ a{
     .content .social_icons a:hover{
     color:var(--primary);
     }
-    
-    .content .social_icons .hoverbio a:hover{
-    color: #57ab00;
-}
-
 
     @media screen and (max-width: 1020px) {
     .content h1{
