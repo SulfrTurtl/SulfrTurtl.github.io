@@ -6,6 +6,11 @@
     --white:#FFF;
     --primary:#04c3fd;
     }
+
+a{  
+ text-decoration: none;
+    color: white;
+}
     
     body{
     width:100vw;
