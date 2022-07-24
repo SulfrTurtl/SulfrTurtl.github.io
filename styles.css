@@ -74,6 +74,10 @@
     .content .social_icons a:hover{
     color:var(--primary);
     }
+.hoverbio:hover{
+    color: #57ab00;
+}
+
 
     @media screen and (max-width: 1020px) {
     .content h1{
