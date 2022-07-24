@@ -74,7 +74,8 @@
     .content .social_icons a:hover{
     color:var(--primary);
     }
-.hoverbio:hover{
+    
+    .content .social_icons .hoverbio a:hover{
     color: #57ab00;
 }
 
